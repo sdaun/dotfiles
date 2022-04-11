@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sabrinadaun@gmx.de
+	name = Sabrina Daun
